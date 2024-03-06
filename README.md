@@ -1,2 +1,2 @@
 # clone-tabnews
-TabNews implementation for curso.dev.
+TabNews implementation for curso.dev
